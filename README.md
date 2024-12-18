@@ -1,6 +1,6 @@
 # WindowsControlUtilities
 
-A collection of C# utilities for managing and controlling various device functionalities on Windows, including volume control, Wi-Fi connection management, device enumeration, and taskbar visibility settings. This repository includes scripts for muting/unmuting volume, connecting to secured Wi-Fi networks, listing network interfaces, and enabling/disabling the taskbar, among others.
+A collection of C# & C++ utilities for managing and controlling various device functionalities on Windows, including volume control, Wi-Fi connection management, device enumeration, and taskbar visibility settings. This repository includes scripts for muting/unmuting volume, connecting to secured Wi-Fi networks, listing network interfaces, and enabling/disabling the taskbar, among others.
 
 # Usage / Syntax
 
