@@ -4,32 +4,38 @@ A collection of C# utilities for managing and controlling various device functio
 
 # Usage / Syntax
 
-## 1. lockout.exe - No command-line arguments required. Run the program to remove Keyboard devices.
+## 1. lockout.exe
+No command-line arguments required. Run the program to remove Keyboard devices.
 ```
 lockout.exe
 ```
 
-## 2. lockoutUSB.exe - No command-line arguments required. Run the program to remove USB devices.
+## 2. lockoutUSB.exe
+No command-line arguments required. Run the program to remove USB devices.
 ```
 lockoutUSB.exe
 ```
 
-## 3. lockoutSystem.exe - # No command-line arguments required. Run the program to remove all removable system devices.
+## 3. lockoutSystem.exe
+No command-line arguments required. Run the program to remove all removable system devices.
 ```
 lockoutSystem.exe
 ```
 
-## 4. lockoutHID.exe - # No command-line arguments required. Run the program to remove HID devices.
+## 4. lockoutHID.exe
+No command-line arguments required. Run the program to remove HID devices.
 ```
 lockoutHID.exe
 ```
 
-## 5. initDevices.exe - No command-line arguments required. Run the program to re-scan and connect removable devices.
+## 5. initDevices.exe 
+No command-line arguments required. Run the program to re-scan and connect removable devices.
 ```
 initDevices.exe
 ```
 
-## 6. ConnectToWifi.exe - <SSID> <password> required to connect to network
+## 6. ConnectToWifi.exe 
+<SSID> <password> required to connect to network
 ```
 wifiConnectSecured.exe "YourSSID" "YourPassword"
 ```
